@@ -137,7 +137,7 @@
 
 ![DisableGWX右击以管理员身份运行](./images/2.png)
 
-如果出现 Failure: Current permissions inadequate. 则表明程序没有以管理员身份运行，部分过程处理时间可能较长，请耐心等待，尤其是Please wait…提示的时候。
+如果出现 **Failure: Current permissions inadequate.** 则表明程序没有以管理员身份运行，部分过程处理时间可能较长，请耐心等待，尤其是Please wait…提示的时候。
 
 代码已经由32位 Windows 7 SP1 专业版测试通过，其他版本Windows建议谨慎考虑。
 
